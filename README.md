@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;Self-Taught+Full+Stack+Developer,;Machine+Learning+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;Self-Taught+Full+Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
 <br>
@@ -29,12 +29,12 @@
 
 - 🔭 I’m currently Building **Stock Exchange Platform and All in one Trading platform**
 
-- :student: I've keen interest in Artificial intelligence. So, I'm learning **Machine Learning**
+- :student: I've keen interest in Artificial intelligence and Core Backend stuffs. So, I'm exploring and learning in these fields.
 
-- 💬 Ask me about `React`, `Nextjs`, `Nodejs`, `Typescript`, `MongoDB`, `Postgres`, `Clickhouse`, `Kafka`, `RabbitMQ` 
-  
+- 💬 Ask me about `NodeJs`, `Golang`,`Typescript`, `React`, `Nextjs`, `MongoDB`, `Postgres`, `GRPC`, `Clickhouse`, `Kafka`, `RabbitMQ` 
+<!--  
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1YjYjkSj5esj9cUEgIGjIfWzvEK1sA7Jo/view?usp=drive_link).
-
+-->
 - 📫 Feel free to reach me out `sameerkr.dev@gmail.com`
 
 - 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) – [sameerkrdev](https://x.com/sameerkrdev) my username!
@@ -51,9 +51,10 @@
 
 
 ## 🛠️ Technologies That I Know👨🏻‍💻
-### Backend languages:
+### Backend development:
 &emsp;
 ![Nodejs](https://img.shields.io/badge/-Node.Js-000?&logo=nodedotjs)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=007ACC)
 ![NestJs](https://img.shields.io/badge/-NestJs-000?&logo=nestjs&logoColor=007ACC)
@@ -122,4 +123,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Last Edited on: 26/08/2025
+Last Edited on: 04/12/2025
